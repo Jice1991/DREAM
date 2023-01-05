@@ -1,0 +1,9 @@
+example_1  Êonly updating  10-element simply supported beam, 10 stiffness
+
+example_2   shear building
+
+example_3  varied E: fixed-fixed beam
+
+
+
+Note: mode shape is more accurate and reliable than MAC
